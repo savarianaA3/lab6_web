@@ -10,6 +10,6 @@ Dosen       : Agung Nugroho,S.Kom.,M.Kom
 ## **Structur projek**
 
 
-![rika](img.png)
+![rika](https://user-images.githubusercontent.com/115305578/231526353-80aae53e-585f-4b17-a2c6-db362cb54b60.png)
 
 
